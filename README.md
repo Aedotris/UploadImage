@@ -12,13 +12,6 @@
 - **Thông báo mượt mà**: Thông báo thành công hoặc lỗi được hiển thị với hiệu ứng mượt mà.
 - **Hiệu ứng loading**: Hiệu ứng loading toàn màn hình khi đang tải ảnh.
 
-## Cài Đặt
-
-### Yêu Cầu
-
-- Node.js (>= 14.x)
-- npm hoặc yarn
-
 ### Cài Đặt Dự Án
 
 1. **Clone repository**
