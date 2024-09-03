@@ -34,22 +34,10 @@
     npm install
     ```
 
-    hoặc
-
-    ```bash
-    yarn install
-    ```
-
 3. **Chạy ứng dụng**
 
     ```bash
-    npm start
-    ```
-
-    hoặc
-
-    ```bash
-    yarn start
+    npm run dev
     ```
 
     Ứng dụng sẽ chạy tại `http://localhost:3000`.
