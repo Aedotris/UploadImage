@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaCloudUploadAlt, FaCheckCircle, FaExclamationCircle, FaCopy } from 'react-icons/fa';
 import axios from 'axios';
-import anime from 'animejs';
+import anime from "animejs/lib/anime.es.js";
 
 const UploadImage: React.FC = () => {
   const [imageLinks, setImageLinks] = useState<string[]>([]);
